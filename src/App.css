@@ -1,0 +1,26 @@
+.detail-btn{
+  background-color: #00bcd4;
+  color: white;
+}
+.remove-btn{
+  background-color:#d9534f ;
+  color: white;
+}
+.bulk-position{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 50%;
+}
+.input-feedback {
+  color: red;
+  margin-top: .25rem;
+  font-size: 14px;
+}
+
+.text-change:first-letter {
+  text-transform: uppercase;
+}
+.ul{
+  width: 100%;
+}
